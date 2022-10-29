@@ -1,4 +1,4 @@
-Run with this folder mappped and initialized with the script folding_init_jupyter.sh
+Meant to be run in a Docker container (see Dockerfile)
 
 Has only tested with JupyterLab 3.1.4!
 
