@@ -1,0 +1,19 @@
+### Run on conda environment colabfold
+## Alphafold2 notebook works after removing "import google...." in first cell, and after removing cell with installation commands
+
+## Needs 
+# Is not in startup script:
+sudo ln -s /work/SW/CondaEnvironments/colabfoldnew/bin/ptxas /usr/bin/
+
+
+## Installation procedure on Jupyter 3.1.4
+conda create --prefix /work/SW/CondaEnvironments/colabfold
+conda activate /work/SW/CondaEnvironments/colabfold
+#wget https://github.com/sokrypton/ColabFold/archive/refs/tags/v1.3.0.zip
+#unzip v1.3.0.zip
+conda install -y  -c conda-forge -c bioconda jax=0.3.23 kalign2=2.04 hhsuite=3.3.0 python=3.7 openmm=7.5.1 python=3.7 pdbfixer appdirs=1.4.4 ipykernel tqdm=4.64.1 importlib_metadata=4.11.4 pandas=1.2.3
+pip install  --no-warn-conflicts "colabfold[alphafold-minus-jax] @ git+https://github.com/sokrypton/ColabFold"
+#pip install Bio 
+#sudo apt install aria2
+conda install -y -c nvidia cuda-nvcc=11.7
+
