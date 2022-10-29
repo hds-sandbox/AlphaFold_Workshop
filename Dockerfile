@@ -14,4 +14,4 @@ RUN mkdir -p /home/ucloud/.local/share/jupyter/kernels/colabfold
 RUN cp /opt/conda/share/jupyter/kernels/python3/kernel.json /home/ucloud/.local/share/jupyter/kernels/colabfold
 RUN sed -i 's|/opt/conda/bin/python|/opt/conda/envs/colabfold/bin/python|g' /home/ucloud/.local/share/jupyter/kernels/colabfold/kernel.json
 RUN sed -i 's|Python 3 (ipykernel)|colabfold|g' /home/ucloud/.local/share/jupyter/kernels/colabfold/kernel.json
-
+RUN cd /work && wget https://raw.githubusercontent.com/hds-sandbox/AlphaFold_Workshop/main/AlphaFold2.ipynb?token=GHSAT0AAAAAABZMJ7J2WNGWSTGXAEBGI2W6Y24YWKA && mv AlphaFold2* AlphaFold2.ipynb
