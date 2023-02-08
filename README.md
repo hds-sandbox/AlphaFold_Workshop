@@ -17,7 +17,7 @@ After completing this workshop, you will be able to:
 ## Pre-Analysis Technical Requirements
 Before beginning the analysis, it is important to ensure that the following technical requirements are met:
 
-1. The tutorial can be executed within a Docker container (as detailed in the Dockerfile), or through the [https://cloud.sdu.dk/](UCloud platform).
+1. The tutorial can be executed within a Docker container (as detailed in the Dockerfile), or through the [https://cloud.sdu.dk/](UCloud) platform.
 2. The Jupyter Notebook has only been tested on JupyterLab version 3.1.4, therefore it is recommended to use this version for optimal performance.
 3. To achieve optimal and efficient prediction results, it is strongly recommended to allocate at least one GPU for the analysis.
 4. To initiate the analysis, simply open the AlphaFold2.ipynb file and run the cells as instructed.
