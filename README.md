@@ -5,7 +5,7 @@ Welcome to the AlphaFold tutorial where we will use a modified version of ColabF
 ColabFold is a protein folding prediction tool based on Google DeepMind's AlphaFold and utilizes MMseqs2 for sequence alignments and templates. With ColabFold, you can easily predict the protein folding structure based on the amino acid sequence.
 
 ## Running the Tutorial
-The tutorial is a Jupyter notebook that can be run on [UCloud](https://cloud.sdu.dk/). To run each cell, press Shift + Enter while inside the cell or press the triangular play button above. There will be questions included throughout the workshop to help you gain a deeper understanding of what you are calculating.
+The tutorial is a Jupyter notebook that can be run on [UCloud](https://cloud.sdu.dk/). To run each cell, press `Shift + Enter` while inside the cell or press the triangular play button above. There will be questions included throughout the workshop to help you gain a deeper understanding of what you are calculating.
 
 ## Learning Objectives
 After completing this workshop, you will be able to:
