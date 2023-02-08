@@ -7,7 +7,7 @@ Open AlphaFold2.ipynb and run the analysis
 
 
 
-#AlphaFold Tutorial using ColabFold
+# AlphaFold Tutorial using ColabFold
 Welcome to the AlphaFold tutorial where we will use a modified version of ColabFold to predict protein folding structures using AlphaFold2 and MMseqs2. This tutorial is designed to help you gain a deeper understanding of the protein folding prediction process, and to enable you to predict protein structures with ease using ColabFold.
 
 ## Introduction
