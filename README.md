@@ -22,7 +22,7 @@ Before beginning the analysis, it is important to ensure that the following tech
 3. To achieve optimal and efficient prediction results, it is strongly recommended to allocate at least one GPU for the analysis.
 4. To initiate the analysis, simply open the AlphaFold2.ipynb file and run the cells as instructed.
 5. A clear understanding of protein folding and AlphaFold2's working principles is required before starting the analysis.
-6. Make sure you have read the manuscript and familiarized yourself with the ColabFold GitHub page for a comprehensive understanding of the tool.
+6. Make sure you have read the manuscript and familiarized yourself with the [ColabFold GitHub page](https://github.com/sokrypton/ColabFold) for a comprehensive understanding of the tool.
 7. It is advisable to have basic understanding of Jupyter Notebook and its functionality for seamless execution of the analysis.
 
 ### References
