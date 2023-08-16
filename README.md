@@ -25,5 +25,19 @@ Before beginning the analysis, it is important to ensure that the following tech
 6. Make sure you have read the manuscript and familiarized yourself with the [ColabFold GitHub page](https://github.com/sokrypton/ColabFold) for a comprehensive understanding of the tool.
 7. It is advisable to have basic understanding of Jupyter Notebook and its functionality for seamless execution of the analysis.
 
+## Getting Started
+
+You can access ColabFold through UCloud. This integration allows you to use the tool, but before beginning the ColabFold workshop, you need to download the workshop as a Jupyter Notebook from GitHub and upload it to your designated folder on UCloud. To initiate this process, please follow the steps below:
+
+1. Log in to UCloud.
+2. Choose a workspace that has GPU resources for optimal performance.
+3. Search for ColabFold in the Apps section.
+4. Choose the appropriate machine type and select a GPU, such as `u2-gpu-1`. The use of a single GPU is generally sufficient, though larger sequences may require additional computational power.
+5. Select a personal folder to use, ensuring that you have uploaded the Jupyter Notebook from GitHub beforehand.
+6. Click on "Submit" and then "Open interface" on the following page.
+7. Prior to proceeding, ensure you've downloaded the Jupyter Notebook labeled `AlphaFold2.ipynb` from this repository. Then, upload the notebook to your ColabFold session using the left-hand menu.
+8. Proceed with the ColabFold workshop, which will guide you through the process of predicting protein structures based on amino acid sequences.
+
+
 ### References
 Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. ColabFold: Making protein folding accessible to all. Nature Methods, 2022.
