@@ -59,7 +59,7 @@ cp AlphaFold2.ipynb /path/to/destination
 
 Replace `/path/to/destination` with the path where you want to save the notebook on your local machine.
 
-That's it! You've successfully downloaded a Jupyter Notebook from a GitHub repository using the terminal. Make sure you have Git installed on your system, and if not, you can download it from the official Git website: **[https://git-scm.com/downloads](https://git-scm.com/downloads)**.
+That's it! You've successfully downloaded the Jupyter Notebook from the GitHub repository using the terminal. Make sure you have Git installed on your system, and if not, you can download it from the official Git website: **[https://git-scm.com/downloads](https://git-scm.com/downloads)**.
 
 
 ### References
