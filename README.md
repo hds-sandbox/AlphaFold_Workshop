@@ -45,13 +45,10 @@ You can use the `git` command to easily download a Jupyter Notebook from a GitHu
 Open your terminal and navigate to the directory where you want to store the downloaded repository. Use the following command to clone the repository:
 
 ```bash
-git clone <repository_url>
-```
-Replace `<repository_url>` with the actual URL of the GitHub repository. You can find the URL by clicking on the green "Code" button on the repository's GitHub page.
-
-```bash
 git clone https://github.com/hds-sandbox/AlphaFold_Workshop.git
 ```
+
+You can find the URL by clicking on the green "Code" button on the repository's GitHub page.
 
 2. **Copy the Notebook**
 You can simply copy the notebook file to your desired location using the `cp` command. For example:
