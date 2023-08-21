@@ -39,7 +39,7 @@ You can access ColabFold through UCloud. This integration allows you to use the 
 8. Proceed with the ColabFold workshop, which will guide you through the process of predicting protein structures based on amino acid sequences.
 
 ## Download `AlphaFold2.ipynb` using terminal
-You can use the `git` command to easily download a Jupyter Notebook from a GitHub repository using the terminal. Here's a step-by-step guide on how to do this:
+You can use the `git` command to easily download the Jupyter Notebook from this GitHub repository using the terminal. Here's a step-by-step guide on how to do this:
 
 1. **Clone the Repository:**
 Open your terminal and navigate to the directory where you want to store the downloaded repository. Use the following command to clone the repository:
