@@ -50,7 +50,7 @@ git clone <repository_url>
 Replace `<repository_url>` with the actual URL of the GitHub repository. You can find the URL by clicking on the green "Code" button on the repository's GitHub page.
 
 ```bash
-git clone [<repository_url>](https://github.com/hds-sandbox/AlphaFold_Workshop.git)
+git clone https://github.com/hds-sandbox/AlphaFold_Workshop.git
 ```
 
 2. **Copy the Notebook**
